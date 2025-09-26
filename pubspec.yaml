@@ -34,7 +34,7 @@ dependencies:
   geolocator: ^11.0.0
   geocoding: ^2.1.0
   shared_preferences: ^2.2.3
-  #git flutter_local_notifications: ^17.2.0
+  #flutter_local_notifications:
   intl: ^0.18.1
   timezone: ^0.9.4
   permission_handler:
